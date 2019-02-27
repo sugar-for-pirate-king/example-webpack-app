@@ -1,24 +1,13 @@
-# README
+# About
+Example rails with webpack installation.(*succcess deployed in heroku*)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Stack
+- ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-linux]
+- Rails 5.2.2
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Installation
+```
+$> bundle install
+$> foreman start
+```
+Then, open *http://localhost:5000* to open the website.
